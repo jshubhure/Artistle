@@ -24,3 +24,4 @@ Win or lose screen reveals the mystery artist and your guess count.
 Artist data provided by MusicBrainz API.
 
 **Demonstration**
+![](https://github.com/Artisle/artistle.gif)
